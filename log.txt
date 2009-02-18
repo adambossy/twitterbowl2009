@@ -1,0 +1,124 @@
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xmlcurl --basic --user : --data status="" http://twitter.com/statuses/update.xmlcurl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="superbowl Go steelers!" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl  can\'t wait until sunday" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl can\'t wait!" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl can\'t wait!" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl can\'t wait!" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl can't wait" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="If you reddit, please vote me up so we can get Twitterbowl feedback http://tinyurl.com/bf8xmw" http://twitter.com/statuses/update.xml
+curl --basic --user sass9210:mother --data status="SUPERBOWL!!!" http://twitter.com/statuses/update.xml
+curl --basic --user sass9210:erh59210 --data status="SUPERBOWL" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl test3" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl test5" http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl Our 12 year old Steelers fans are cooler than the Cardinals 12 year old fans http://tinyurl.com/9j4t29" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test" http://twitter.com/statuses/update.xml
+curl --basic --user vinnie:Budweiser --data status="#superbowl - checking out twitterbowl2009 for the *real* coverage of the superbowl." http://twitter.com/statuses/update.xml
+curl --basic --user vinnie:Budweiser --data status="#superbowl " http://twitter.com/statuses/update.xml
+curl --basic --user vlauria:Budweiser --data status="#superbowl - checking out http://twitterbowl2009.com to see what *real* coverage of the superbowl will be." http://twitter.com/statuses/update.xml
+curl --basic --user : --data status="" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test
+" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test
+" http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl testing TwitterBowl2009.com. " http://twitter.com/statuses/update.xml
+curl --basic --user abossy:adamadam --data status="#superbowl test" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl Can't wait until this Sunday!" http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data status="#superbowl test"&source="Twitter Bowl"  http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data "status=#superbowl test" --data "source=Twitter Bowl"  http://twitter.com/statuses/update.xml
+curl --basic --user derwiki:swaye78ey5 --data "status=#superbowl test" http://twitter.com/statuses/update.xml?source=Twitter+Bowl
+curl --basic --user derwiki:swaye78ey5 --data "status=#superbowl test" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user abossy:adamadam --data "status=#superbowl Fixed all the formatting issues with twitterbowl2009.com! Looks freaking sweet! Check it out!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user craigcampbell:thinker --data "status=#superbowl countdown" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user malouie:PoohPooh1 --data "status=@SkeeterHansen i'm going to be watching #superbowl at snapfish pres ben nelson's & posting pics here http://bit.ly/snapfishben" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user mathplourde:plou007! --data "status=#superbowl Damn... could have been a all PA SB... Oh well, go Cardinals then..." http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user joshdjenkins:shark2097 --data "status=Got the rest of the day to watch the #superbowl" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user bdubord:cowpie --data "status=#superbowl We're getting ready to go to the superbowl party.  Go Steelers!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user thomasrdororg:tigger2 --data "status=#superbowl" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user thomasrdororg:tigger2 --data "status= I won't lie to you, Australians are only interested in #superbowl to see Ben Graham put the boot in." http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl
+love the greasemonkeys
+" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl doritos - what the Heck are you trying to say with your $2M???" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl this is a vision of how madison ave sees middle america - is it accurate?" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl I think Pepsi has scored" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl 
+Pepsi, Pedigree and movie trailers aimed solely at 20something guys" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl madison ave has a major creativity deficit - bigger than our proposed stimulus pkg" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl do I want to see Chuck in 3D??" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl " http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl What IS the bkgd behind the announcers??  Who owns the sports aesthetic?" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl love the babies" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl wow - teleflora - there's some bad karma" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl this is apparently a "mass" event that features men only - " http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl SOBE stuck in Bush era - so is the halftime format" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl we can't figure out if we're about the future or the past -" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user cecycorrea:wilshire3600 --data "status=#superbowl" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl is wondering why/what makes Al Michaels a legend?" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl careerbuilder gets it" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl 
+coke's position - fructose = happiness" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=#superbowl" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=#superbowl Nice to finally find SB fans!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user teri_pdp:345123 --data "status=#superbowl mraz's "I want my house back" would be more interesting if it was about foreclosure" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=#superbowl After that 100 yd touchdown earlier I had to go with the Steelers. That guy deserves for his team to win- just for the memory!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=Best Superbowl commercial was by CocaCola because of their music- If you're under 40 though, you probably didn't even know the tune- unless you are into classical music. Any takers? " http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=Can anybody name the CokeZero tune?" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=Loved the Peter and the Wolf theme to the Coca Cola commercial. " http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=wish larry fitzgerald would cut his 70's hair. Get a life of your own, Larry." http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=Somebody- just pull Larry Fitzgerald's hair- would ya? Take him out." http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=#superbowl Springsteen is a pufter!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=#superbowlwhat happpened to the SuperBowl?" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=I lost the channel for a minute." http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=Whew! Fitzgerald did it!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=You can't help liking an underdog. I go back and forth between both teams. Just wish Fitzgerald would cut that stupid hair." http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=I think a lot of people left at half-time!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=I think they're having a lot more fun now!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=Now it gets interesting!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=49 seconds!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=2nd and goal" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=Steelers!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=My Holmes Boy!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=Steelers had the Super Plays" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=Good Show Steelers!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user RobertaHolland:goodone#*7 --data "status=they beat my Cowboys!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=#superbowl the promos on NBC convinced us to watch The Office.  Not bad!" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl
+curl --basic --user : --data "status=" http://twitter.com/statuses/update.xml?source=TwitterBowl

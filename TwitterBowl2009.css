@@ -1,0 +1,58 @@
+/** Add css rules here for your application. */
+
+body {
+/*	background: #fff url(http://www.twitterbowl2009.com/gwitterbowl2009/gwt/standard/images/background.png) repeat-x scroll 0 0;*/
+/*	font-size: 0.75em;*/
+	font-family: sans-serif;
+  	background-color: #fff;
+  	background-image: url(images/background.png);
+  	background-repeat: repeat-x;	
+}
+
+.twitter-login,
+.share-this,
+.footer {
+	margin: 2em 0 0 0;
+}
+
+.text-box,
+.text-area {
+	border: 1px solid #AAAAAA;
+	padding: 4px 2px;
+}
+
+.send-button {
+	background-color: #aaa;
+	border-color: #aaa;
+}
+
+.text-box {
+	height: 18px;
+}
+
+.taxt-box-label {
+/*	font-size: 0.75em; */
+	font-family: sans-serif;
+}
+
+.columns {
+	padding: 0 1em 0 1em;
+}
+
+.footer {
+/*	font-size: 0.75em; */
+	font-family: sans-serif;
+	margin: 1em;
+}
+
+.steelers-widget {
+
+}
+
+.cardinals-widget {
+
+}
+
+b { 
+  display: none; 
+}
